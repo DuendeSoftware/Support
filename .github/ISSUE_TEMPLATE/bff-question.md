@@ -2,7 +2,7 @@
 name: BFF question
 about: Question related to BFF
 title: ''
-labels: ''
+labels: 'BFF'
 assignees: ''
 
 ---
